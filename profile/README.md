@@ -1,5 +1,9 @@
 # Inklinados
 
+<img src="./logo-inklinados-escuro.jpg" alt="Logo do Inklinados" width="160" align="left" />
+
+<br clear="both" />
+
 Somos um coletivo de desenvolvedores cristãos. Cada um tem o próprio projeto e os outros ajudam no que podem.
 
 Ninguém é chefe de ninguém, ninguém trabalha sozinho. Entra-se por projeto: mostra o próprio trabalho primeiro, ajuda quando o projeto de outro precisa.
